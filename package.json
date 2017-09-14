@@ -1,7 +1,7 @@
 {
-  "name": "react-webcam",
+  "name": "react-webcam-westbrook",
   "version": "0.2.0",
-  "description": "React webcam component",
+  "description": "React webcam component with sizing",
   "main": "dist/react-webcam.js",
   "scripts": {
     "prepublish": "npm run build:umd",
@@ -18,7 +18,7 @@
     "react-component",
     "webcam"
   ],
-  "author": "Moz Morris <mozmorris@gmail.com>",
+  "author": "Eric Westbrook <eric@ericwestbrook.net>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mozmorris/react-webcam/issues"
