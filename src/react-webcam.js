@@ -119,7 +119,7 @@ export default class Webcam extends Component {
     const sourceSelected = (audioSource, videoSource) => {
       const constraints = {
         video: {
-          with: this.props.width,
+          width: this.props.width,
           height: this.props.height
         },
       };

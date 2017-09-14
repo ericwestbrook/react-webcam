@@ -1,6 +1,6 @@
 {
   "name": "react-webcam-westbrook",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "React webcam component with sizing",
   "main": "dist/react-webcam.js",
   "scripts": {
